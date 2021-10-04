@@ -12,3 +12,4 @@ while number:
             print("Thanks for playing")
     else:
         print("That's a wrong number! Try it again")
+        number = int(input())
